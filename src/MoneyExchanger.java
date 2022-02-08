@@ -11,8 +11,3 @@ public class MoneyExchanger {
         System.out.print("VND: " + money);
     }
 }
-    /*let amount1 = Number(document.getElementById("amount1").value);
-    let from1 = Number(document.getElementById("from1").value);
-    let to1 = Number(document.getElementById("to1").value);
-    let rate = to1 / from1;
-    let result1 = amount1 * rate;*/
